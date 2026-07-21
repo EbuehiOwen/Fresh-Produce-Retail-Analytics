@@ -15,20 +15,23 @@ A comprehensive data analytics project analyzing 800,000+ transactions from a fr
 - Multi-table joins, CTEs, aggregations, window functions
 - Data cleaning and transformation logic
 - File: `sql_views.sql`
+- Dashboard: ![Financial](Screenshots/page1_financial_analysis.png)
 
 ### 2. **Power BI Dashboard**
-- 3-page interactive report with 10 visualizations
+- 3 page executive dashboard featuring KPI cards, trend analysis, profitability comparisons, operational monitoring, and customer behavior insights.
 - Page 1: Financial Analysis (Revenue, Profit, ROI)
 - Page 2: Operations & Spoilage (Waste costs, Seasonality, Price volatility)
 - Page 3: Customer Behavior (Peak hours, Returns, Discounting patterns)
 - Progressive disclosure navigation with date filtering
 - File: `retail_analytics_dashboard.pbix`
+- Dashboard: ![Operations](Screenshots/page2_operations_spoilage.png)
 
 ### 3. **Executive Findings Report**
 - Business insights and tactical recommendations
 - Financial impact analysis
 - Action plan with implementation priorities
 - File: `FINDINGS.md`
+- Dashboard: ![Customer](Screenshots/page3_customer_behavior.png)
 
 ---
 
@@ -132,6 +135,22 @@ Full analysis in `FINDINGS.md`
 4. **Power BI Modeling:** Created relationships, DAX measures, interactive visualizations
 5. **Dashboard Design:** Built 3-page report with progressive disclosure navigation
 6. **Insights:** Synthesized findings into actionable business recommendations
+
+---
+
+## Data Workflow
+
+Raw Retail Data
+       ↓
+PostgreSQL
+       ↓
+SQL Views
+       ↓
+Power BI Data Model
+       ↓
+Interactive Dashboard
+       ↓
+Business Insights
 
 ---
 
