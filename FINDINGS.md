@@ -18,5 +18,6 @@ Action Plan Summary
 2.	Mitigate Top 3 Spoilage Items: Re evaluate order quantities and supplier terms for Xixia Mushroom, Broccoli, and Yunnan Shengcai.
 3.	Optimize Hourly Staffing: Align labor allocation with peak store traffic windows (9:00 AM to 11:00 AM and 3:00 PM to 7:00 PM).
 4.	Smooth Seasonal Spoilage Peaks: Reduce purchase volumes by 25% to 30% heading into August and January.
-These recommendations could unlock $600K-800K in additional annual profit with minimal implementation cost.
+
+These initiatives have the potential to reduce waste costs and improve profitability. The exact financial impact would depend on implementation effectiveness and should be validated through controlled operational pilots..
 
